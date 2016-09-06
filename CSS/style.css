@@ -1,0 +1,16 @@
+body{
+	
+	background-color: #ccc;
+	width: 700px;
+	margin: 0 auto;
+}
+
+img{
+	width: 800px;
+}
+
+
+ol{
+	font-size: 25px;
+	font-family: verdana;
+}
